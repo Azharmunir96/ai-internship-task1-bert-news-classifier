@@ -38,3 +38,19 @@ User Input → Gradio UI → Tokenizer → BERT → Softmax → Prediction + Con
 **Output:** Sports (97.43% confidence)  
 **Test Accuracy:** ~94.8% on AG News (4-class)
 
+## Project Access
+
+Due to the substantial size of this project, it is not feasible to upload it to GitHub. To ensure accessibility and ease of use, the complete project folder has been hosted on Google Drive. This allows reviewers, collaborators, and stakeholders to download the entire project without encountering file size limitations or incomplete uploads.
+
+The project folder contains all relevant materials, including:  
+- Source code  
+- Datasets  
+- Configuration files  
+- Documentation  
+
+By providing the folder in a centralized location, all components are preserved in their original structure and format, preventing potential issues from missing or corrupted files. Users can access the shared link below to download the full project and start working immediately. This method also facilitates version control and collaboration by allowing updates or additional resources to be shared efficiently.
+
+It is recommended to download the project in its entirety to ensure all dependencies and resources are available. For any questions or assistance regarding accessing the project folder, please do not hesitate to contact us.
+
+**Project Link:** [Google Drive Project Folder](https://drive.google.com/file/d/170woZo3Z6eb1_-b4hptibFk2adBkKiJh/view?usp=drive_link)
+
